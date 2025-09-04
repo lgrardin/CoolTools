@@ -1,3 +1,24 @@
+# CoolTools
+
+Ce repo recense des applications et services jugés intéressants, avec pour objectif de centraliser les liens utiles et fournir une brève description de leur utilité ou spécificité.
+
+## Sommaire
+
+- [Vidéo](#video)
+- [Photo](#photo)
+- [Image](#image)
+- [Navigateur](#navigateur)
+- [Gestion de mots de passe](#gestion-de-mots-de-passe)
+- [Réseau](#reseau)
+- [Transfert de fichiers](#transfert-de-fichiers)
+- [Comment contribuer](#comment-contribuer)
+
+---
+
+## Vidéo
+
+- [Grayjay](https://grayjay.app/) : Application mobile permettant de regrouper et d’organiser des vidéos issues de plusieurs plateformes (YouTube, PeerTube, Odysee, etc.) dans une interface unique. Grayjay n’héberge pas de contenu, mais facilite l’accès et la gestion des abonnements et playlists. L’utilisateur peut importer ses abonnements et playlists depuis différents services compatibles. L’application propose des fonctionnalités avancées comme la lecture en arrière-plan, le mode hors-ligne et le support du cast vers d’autres appareils. La confidentialité est renforcée par le stockage local de l’historique et l’absence de suivi par défaut.
+
 ---
 
 ## Cloud Gaming
@@ -74,55 +95,6 @@
 - [Keepa](https://keepa.com/#!) : Service en ligne spécialisé dans l’analyse de l’historique des prix des produits vendus sur Amazon. Keepa propose des graphiques détaillés, des alertes de prix et des statistiques sur les variations tarifaires, permettant aux utilisateurs de suivre l’évolution des offres et de repérer les meilleures périodes d’achat. Le site offre des fonctionnalités de recherche avancée et d’exportation des données pour faciliter la comparaison et la veille tarifaire. Keepa est accessible gratuitement avec des options premium pour des analyses approfondies. Il s’adresse aux consommateurs, professionnels et passionnés d’e-commerce souhaitant optimiser leurs achats et surveiller les tendances du marché.
 ---
 
-## Navigateur
-
-- [Zen Browser](https://zen-browser.app/) : Navigateur web axé sur la confidentialité et la sécurité, proposant un blocage avancé des publicités et du tracking.
-
----
-
-## Gestion de mots de passe
-
-- [Bitwarden](https://bitwarden.com/fr-fr/) : Gestionnaire de mots de passe open source permettant de stocker, générer et synchroniser des identifiants de manière sécurisée sur plusieurs appareils.
----
-
-## Réseau
-
-- [NextDNS](https://nextdns.io/) : Service DNS personnalisable permettant de filtrer le contenu, renforcer la confidentialité et analyser le trafic réseau pour les particuliers et les entreprises.
-
-# CoolTools
-
-Ce repo recense des applications et services jugés intéressants, avec pour objectif de centraliser les liens utiles et fournir une brève description de leur utilité ou spécificité.
-
-## Sommaire
-
-- [Vidéo](#video)
-- [Photo](#photo)
-- [Image](#image)
-- [Navigateur](#navigateur)
-- [Gestion de mots de passe](#gestion-de-mots-de-passe)
-- [Réseau](#reseau)
-- [Transfert de fichiers](#transfert-de-fichiers)
-- [Comment contribuer](#comment-contribuer)
-
----
-
-## Vidéo
-
-- [Grayjay](https://grayjay.app/) : Application mobile permettant de regrouper et d’organiser des vidéos issues de plusieurs plateformes (YouTube, PeerTube, Odysee, etc.) dans une interface unique. Grayjay n’héberge pas de contenu, mais facilite l’accès et la gestion des abonnements et playlists. L’utilisateur peut importer ses abonnements et playlists depuis différents services compatibles. L’application propose des fonctionnalités avancées comme la lecture en arrière-plan, le mode hors-ligne et le support du cast vers d’autres appareils. La confidentialité est renforcée par le stockage local de l’historique et l’absence de suivi par défaut.
-
----
-
-## Photo
-
-*À compléter*
-
----
-
-## Image
-
-*À compléter*
-
----
 
 ## Navigateur
 
